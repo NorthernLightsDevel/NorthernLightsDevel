@@ -1,10 +1,3 @@
-+++
-date = '2025-08-11T19:33:40+02:00'
-draft= false
-title= "About Me"
-menu.main.weight = -90 
-+++
-
 My name is Per Øyvind Håvelsrud, and I'm the NothernLightsDeveloper.
 
 The name isn't just a gimmick; it’s a nod to where my journey with technology truly began. During a year studying space technology at Andøya, I had two pivotal discoveries: the elegant physics of the Aurora Borealis, thanks to Kristian Birkeland's foundational science, and the creative power of programming, through my first encounter with Borland C++. That intersection of natural wonder and logical structure has defined my passion ever since.
