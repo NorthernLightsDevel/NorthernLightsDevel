@@ -23,4 +23,4 @@ While my roots are deep in the Microsoft ecosystem (`C#`, `VB.NET`, `IIS`, `TFS`
 
 When I’m not at the keyboard, my time is spent with my wife and two kids. I find balance and focus in the outdoors while deer hunting in the fall, in the precision of competitive pistol shooting, and in the tangible progress of home renovation.
 
-Thanks for stopping by. I hope you find something useful or interesting in my documented journey.
+Thanks for stopping by. I hope you find something useful or interesting on my profile.
